@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ecolens</string>
+    <string name="onboarding_greeting">Hello there</string>
+    <string name="onboarding_subtitle">Welcome to Ecolens</string>
+    <string name="onboarding_begin_onboard">Begin On-board</string>
+</resources>

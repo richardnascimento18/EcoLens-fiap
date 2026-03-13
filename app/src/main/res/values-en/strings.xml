@@ -1,7 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ecolens</string>
     <string name="onboarding_greeting">Hello there</string>
     <string name="onboarding_subtitle">Welcome to Ecolens</string>
     <string name="onboarding_begin_onboard">Begin On-board</string>
+
+    <string name="home_description">This app displays public air quality data from cities to increase environmental awareness.</string>
+
+        <string name="home">Home</string>
+        <string name="map">Map</string>
+        <string name="details">Details</string>
+        <string name="about">About</string>
+
+        <string name="about_title">Why is it important to know air quality?</string>
+
+    <string name="about_text">Knowing air quality levels is important because pollution can directly affect people\'s health and the environment. Indicators such as PM2.5, PM10, ozone (O3) and nitrogen dioxide (NO2) show the amount of pollutant particles and gases present in the air. At high levels they can cause respiratory problems and other health impacts.\n\nMonitoring this data increases environmental awareness and helps people make more informed decisions in daily life, such as avoiding outdoor activities during high pollution periods and supporting sustainable practices.</string>
+
+    <string name="data_not_found">Data not found</string>
+    <string name="country_label">Country: %1$s</string>
+    <string name="indicator_title">What do these indicators mean?</string>
+    <string name="indicator_description">PM2.5: Very small particles that can enter the lungs and cause respiratory problems.\nPM10: Larger particles that can cause irritation in the eyes and airways.\nO3 (Ozone): At high levels it can cause lung irritation and breathing difficulty.</string>
 </resources>

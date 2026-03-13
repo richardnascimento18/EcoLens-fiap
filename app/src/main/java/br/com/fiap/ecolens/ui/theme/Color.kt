@@ -18,3 +18,5 @@ val blue = Color(0xFF0065D0);
 val lightBlue = Color(0xFFC9F0FF);
 val yellow = Color(0xFFA05E03);
 val lightYellow = Color(0xFFFFEFD7);
+val menuActive = Color(0xFF7B61FF);
+val menuInactive = Color(0xFF5A5F63);

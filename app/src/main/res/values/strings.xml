@@ -3,4 +3,19 @@
     <string name="onboarding_greeting">Olá</string>
     <string name="onboarding_subtitle">Seja bem-vindo ao EcoLens</string>
     <string name="onboarding_begin_onboard">Começar on-boarding</string>
+    <string name="home_description">O aplicativo apresenta dados públicos de qualidade do ar em cidades para aumentar a conscientização ambiental.</string>
+
+    <string name="home">Início</string>
+    <string name="map">Mapa</string>
+    <string name="details">Detalhes</string>
+    <string name="about">Sobre</string>
+
+    <string name="about_title">Por que saber sobre a qualidade do ar é importante?</string>
+
+    <string name="about_text">Saber os níveis de qualidade do ar é importante porque a poluição pode afetar diretamente a saúde das pessoas e o meio ambiente. Indicadores como PM2.5, PM10, ozônio (O3) e dióxido de nitrogênio (NO2) mostram a quantidade de partículas e gases poluentes presentes no ar.\n\nAcompanhar esses dados ajuda a aumentar a conscientização ambiental e permite que as pessoas tomem decisões mais informadas no dia a dia.</string>
+
+    <string name="data_not_found">Dados não encontrados</string>
+    <string name="country_label">País: %1$s</string>
+    <string name="indicator_title">O que significam estes indicadores?</string>
+    <string name="indicator_description">PM2.5: Partículas muito pequenas que podem entrar nos pulmões e causar problemas respiratórios.\nPM10: Partículas maiores que podem causar irritação nos olhos e nas vias respiratórias.\nO3 (Ozônio): Em níveis elevados pode causar irritação pulmonar e dificuldade para respirar.</string>
 </resources>
